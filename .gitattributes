@@ -1,0 +1,15 @@
+# This file is used to override language statistics
+* text=auto eol=lf
+
+*.json linguist-detectable=false
+
+*.htm linguist-vendored
+*.bat text eol=crlf
+src/**/*.tsx linguist-detectable
+*.ts linguist-detectable
+* text=auto
+*.woff binary
+
+build/* linguist-vendored
+
+# eof 71bddee9
