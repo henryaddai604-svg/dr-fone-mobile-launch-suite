@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+.cache/
+yarn-error.log*
+npm-debug.log*
+*.log
+.env
+dist/
